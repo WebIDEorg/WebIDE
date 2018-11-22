@@ -2,14 +2,16 @@
 
 Also known as Eclipse Che IDE
 
-| [Home](README.md) | [Plain](PLAIN.md) | [VSCode](VSCODE.md) | [Monaco](MONACO.md) | Codenvy | [Atom](ATOM.md) | [About](ABOUT.md) | [More](MORE.md) |
+| [Home](README.md) | [Plain](PLAIN.md) | [VSCode](VSCODE.md) | Codenvy | [About](ABOUT.md) | [More](MORE.md) |
 |-------------------|-------------------|---------------------|---------------------|-----------------------|-----------------|-------------------|-----------------|
 |                   |                   |                     |                     | You are here!         |                 |                   |                 |
 
 ---
 
-Our codenvy page contains of an Iframe to codenvy.io
+Codenvy allows you to use linux containers online.
 
-In order to recreate codenvy you need docker which is not portable.
+Our Codenvy page contains an Iframe of codenvy.io.
 
-This is why we Iframed codenvy.io
+In order to recreate codenvy you need docker and a hypervisor.
+
+Due to the need of Docker, Codenvy has to be used online!

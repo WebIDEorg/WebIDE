@@ -1,8 +1,8 @@
 # WebIDE
 
-| Home | [Plain](PLAIN.md) | [VSCode](VSCODE.md) | [Monaco](MONACO.md) | [Codenvy](CODENVY.md) | [Try](../../index.html) | [About](ABOUT.md) | [More](MORE.md) |
-|-------------------|-------------------|---------------------|---------------------|-----------------------|-----------------|-------------------|----------------|
-| You are here!     |                   |                     |                     |                       |                 |                   |                |
+| Home         | [Plain](PLAIN.md) | [VSCode](VSCODE.md) | [Codenvy](CODENVY.md) | [Try](https://josephworks-webide-nuyvqdtvvc.now.sh/) | [About](ABOUT.md) | [STEM Presentation](stem/PROBLEM.md) |
+|--------------|-------------------|---------------------|-----------------------|------------------------------------------------------|-------------------|--------------------------------------|
+| You Are Here |                   |                     |                       |                                                      |                   |                                      |
 
 # WebIDE
 
@@ -19,17 +19,20 @@ emerald tnt #7908
 
 # Download
 
-You can get WebIDE Releases at 
+You can get WebIDE Releases at:
 
 https://github.com/josephworks/WebIDE/releases
 
 # Online Website
 
-https://webide-wpfeqmprrx.now.sh/
+https://josephworks-webide-nuyvqdtvvc.now.sh/
 
-> Warning: ***This page IS outdated!!!***
+You can view the code at:
+
+https://josephworks-webide-nuyvqdtvvc.now.sh/_src
 
 Styles:
+
 ---
 
 > Plain (Monaco Editor)

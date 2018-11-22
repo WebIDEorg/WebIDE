@@ -4,40 +4,31 @@
 
 ---
 
-***7. Work on docs / Wikis***
+***1. Work on docs / Wikis***
 
-19. Work on css for ***Everything***
-23. Attempt to create html configs
-26. When WebIDE is stable, create Online, Offline and OnPremise Stable
-28. Integrate JsTree to WebIDE and Add src to WebIDE-src - https://www.jstree.com/
+2. Work on css for ***Everything***
+3. Attempt to create html configs
+4. When WebIDE is stable, create Online, Offline and OnPremise Stable
+5. Integrate JsTree to WebIDE and Add src to WebIDE-src - https://www.jstree.com/
+6. Work on WebIDE-FileExplorer
+7. Create stable release for WebIDE-Embeddable
+8. Try and add modules to webide
+9. Work on adding features (About 5)
+10. Work on WebIDE css
+11. Fix navbars with http://cssmenumaker.com/
+12. Add loaders from https://1stwebdesigner.com/10-free-css-javascript-snippets-for-creating-animated-loaders/
+13. Add some things from https://1stwebdesigner.com/
+14. Add https://dhtmlx.com/docs/products/demoApps/dhtmlxFileExplorerDemo/index.html to File Explorer
 
-# Completed
+***15. Update markdown tables***
 
-1. remove Monaco editor and embed it to the html files
-2. update more.html, index.html, about.html, head.html
-6. recreate vscode in vscode.html
-8. Work on getwebide.sh
-9. Add depends and CSS to head.html
-12. Use / Integrate micron.js with all html pages
-14. Integrate ace
+16. Fix Ace
 
-***15. Stabilize WebIDE and create v1 stable***
+***17. Fix all cards in index.html***
 
-16. Combine micron and mini.css and mint-css and pure-css into assets
-
-***18. After WebIDE V1 is stable, fork into a new organization called WebIDE***
-
-20. Create WebIDE-src repository for assets
-21. Create seperate repositories for Online, Offline and OnPremise in WebIDE orginization
-
-***24. Remove useless JavaScript***
-
-***25. Create a repo in WebIDE called WebIDE-Src and use it as a cdn / ftp server.***
-
-# Removed
-
-10. work on ./Online
-11. Work on ./Offline
-13. Work on OnPremise
-17. add css assets into style in html
-27. Make getwebide.sh work for windows and linux
+18. Try and create php version of WebIDE for OnPremise
+19. Integrate jekyll with webide
+20. add ftp access
+21. fix VNC viewer (NoVNC)
+22. Make more themes
+23. Embed FileExplorer to webide
